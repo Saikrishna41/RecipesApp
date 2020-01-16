@@ -17,6 +17,5 @@ Technologies used:
 
 Screenshots:
 
-https://raw.githubusercontent.com/Saikrishna41/MVVM/master/images/Screenshot_1579135338.png
-
+<img src = "https://raw.githubusercontent.com/Saikrishna41/MVVM/master/images/Screenshot_1579135338.png" width="100" height="100"/>
 
