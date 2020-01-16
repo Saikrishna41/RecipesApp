@@ -17,6 +17,9 @@ Technologies used:
 
 Screenshots:
 
-<img src = "https://raw.githubusercontent.com/Saikrishna41/MVVM/master/images/Screenshot_1579135338.png" width="250" height="450"/>
-<img src = "https://raw.githubusercontent.com/Saikrishna41/MVVM/master/images/Screenshot_1579135363.png" width="250" height="450"/>
+Category Screen           |  Recipe List Screen
+:-------------------------:|:-------------------------:
+<img src = "https://raw.githubusercontent.com/Saikrishna41/MVVM/master/images/Screenshot_1579135338.png" width="250" height="450"/>  |  !<img src = "https://raw.githubusercontent.com/Saikrishna41/MVVM/master/images/Screenshot_1579135363.png" width="250" height="450"/>
+
+
 
